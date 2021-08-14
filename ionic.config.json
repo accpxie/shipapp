@@ -1,0 +1,8 @@
+{
+  "name": "shipapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "a73b6937"
+}
